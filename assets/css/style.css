@@ -42,6 +42,7 @@ a:hover{
     display: flex;
     flex-flow: column;
     align-items: center;
+    border-radius: 10px;
 }
 
 #advice_block h1{
