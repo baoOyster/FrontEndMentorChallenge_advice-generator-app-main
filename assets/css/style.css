@@ -24,6 +24,7 @@ body{
 a{
     text-decoration: none;
     color: hsl(150, 100%, 66%);
+    cursor: pointer;
 }
 
 a:hover{
